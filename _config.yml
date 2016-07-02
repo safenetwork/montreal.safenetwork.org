@@ -1,0 +1,47 @@
+# Basic
+name:               "SAFE Network Montreal"
+description:        "a meetup group for SAFE Network enthusiasts"
+
+url:                "//montreal.safenetwork.org"
+author:             "Francis Brunelle"
+twitter:
+  username:         "frabrunelle"
+
+# URL
+baseurl:            ""
+permalink:          /events/:title/
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/about/"
+  - name:           "Subscribe"
+    href:           "//tinyletter.com/safenetwork-montreal"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+future:             true
