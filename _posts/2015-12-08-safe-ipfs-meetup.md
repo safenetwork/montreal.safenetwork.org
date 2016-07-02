@@ -11,7 +11,7 @@ redirect_from:
 Tuesday, December 8, 2015 from 6:00 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
+[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 

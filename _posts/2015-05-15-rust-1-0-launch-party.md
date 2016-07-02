@@ -9,7 +9,7 @@ redirect_from: /2015/05/18/rust-1-0-launch-party/
 Friday, May 15, 2015 from 6:00 PM to 9:00 PM
 
 ### Where?
-[Satoshi Counter](https://goo.gl/maps/TqA69DavVMD2), 3489 Boul St-Laurent, 1st floor
+[Satoshi Counter](http://satoshicounter.com/), 3489 Boul St-Laurent, 1st floor ([map](https://goo.gl/maps/TqA69DavVMD2))
 
 ---
 

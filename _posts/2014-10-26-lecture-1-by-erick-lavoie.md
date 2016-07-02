@@ -9,7 +9,7 @@ redirect_from: /2014/11/20/lecture-1-by-erick-lavoie/
 Sunday, October 26, 2014 from 5:00 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
+[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 

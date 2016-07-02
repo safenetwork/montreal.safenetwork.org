@@ -9,7 +9,7 @@ redirect_from: /2014/07/22/our-first-meetup/
 Monday, July 21, 2014 from 6:30 PM to 9:30 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
+[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 

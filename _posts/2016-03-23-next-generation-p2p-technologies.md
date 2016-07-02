@@ -8,7 +8,7 @@ redirect_from: /2016/03/16/next-generation-p2p-technologies/
 Wednesday, March 23, 2016 from 7:00 PM to 10:00 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
+[Yap Lounge](http://yaplounge.com/event-space/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/qKyFxYGWDYu))
 
 ---
 

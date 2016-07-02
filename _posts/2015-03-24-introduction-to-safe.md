@@ -9,7 +9,7 @@ redirect_from: /2015/08/03/introduction-to-safe/
 Tuesday, March 24, 2015 from 2:00 PM to 4:30 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 3rd floor
+[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 3rd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 

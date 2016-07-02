@@ -7,7 +7,7 @@ description: This meetup is inspired by the Decentralized Web Summit, an event t
 Monday, July 11, 2016 from 6:00 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
+[Yap Lounge](http://yaplounge.com/event-space/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/qKyFxYGWDYu))
 
 ------
 
