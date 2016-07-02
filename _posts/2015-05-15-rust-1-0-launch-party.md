@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmXrSYRddvUb3HzE4otfVYQ668DsFRJ5WADRGmYc7bVp1T
 redirect_from: /2015/05/18/rust-1-0-launch-party/
 ---
 
-### Date and time
+### When?
 Friday, May 15, 2015 from 6:00 PM to 9:00 PM
 
-### Location
+### Where?
 [Satoshi Counter](https://goo.gl/maps/TqA69DavVMD2), 3489 Boul St-Laurent, 1st floor
 
 ---

@@ -4,17 +4,17 @@ description: Videos about XOR Space, Routing Tables and DHTs.
 redirect_from: /2015/01/30/lecture-2-by-erick-lavoie/
 ---
 
-### Date and time
+### When?
 Tuesday, December 16, 2014 from 6:00 PM to 9:00 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---
 
 There were a few technical issues during Lecture 2 and so Erick and Francis decided to meet again to record it as a screencast.
 
-## Videos
+### Videos
 
 * [Recapitulation of Lecture 1](https://www.youtube.com/watch?v=5gDsqqHuVpI)
 * [Visualizing the global connection patterns in XOR Space](https://www.youtube.com/watch?v=aM-KcVHailA)

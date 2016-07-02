@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmT9BtK4f98UpEXrRiiB3DmP2qBByJqmTDyf27cSp71wVG
 redirect_from: /2014/11/20/lecture-1-by-erick-lavoie/
 ---
 
-### Date and time
+### When?
 Sunday, October 26, 2014 from 5:00 PM to 9:00 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---

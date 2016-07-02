@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmQ425fRekm76forQZQ6waXghC6tL2hMQPwFkJabxq6ywA
 redirect_from: /2015/08/03/introduction-to-safe/
 ---
 
-### Date and time
+### When?
 Tuesday, March 24, 2015 from 2:00 PM to 4:30 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 3rd floor
 
 ---

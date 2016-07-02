@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmTzab4rZf7Ur6tFybsV6t1pv2efGVEmaNF1KbhYaobUKT
 redirect_from: /2014/09/01/safe-the-bitcoin-of-data/
 ---
 
-### Date and time
+### When?
 Sunday, August 31, 2014 from 6:30 PM to 9:30 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---

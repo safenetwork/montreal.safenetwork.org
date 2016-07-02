@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmPDHK6f2xGEyFwCAtevwnXUuT9uHJUoUagT4H7RTCsJGa
 redirect_from: /2015/03/10/the-economics-of-safecoin/
 ---
 
-### Date and time
+### When?
 Monday, March 2, 2015 from 7:00 PM to 9:00 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---

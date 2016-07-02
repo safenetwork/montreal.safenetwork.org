@@ -7,10 +7,10 @@ redirect_from:
   - /2016/01/02/safe-ipfs-meetup-slides/
 ---
 
-### Date and time
+### When?
 Tuesday, December 8, 2015 from 6:00 PM to 9:00 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---

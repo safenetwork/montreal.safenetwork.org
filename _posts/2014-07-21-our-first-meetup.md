@@ -5,10 +5,10 @@ image: https://ipfs.pics/ipfs/QmeoRAuxKmmPJyYo9YXeJ42dUN9W5isYgpRRngNEzf1uwL
 redirect_from: /2014/07/22/our-first-meetup/
 ---
 
-### Date and time
+### When?
 Monday, July 21, 2014 from 6:30 PM to 9:30 PM
 
-### Location
+### Where?
 [Bitcoin Embassy](https://goo.gl/maps/BfhfcmsDp8G2), 3485 Boul St-Laurent, 2nd floor
 
 ---
