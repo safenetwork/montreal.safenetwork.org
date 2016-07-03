@@ -29,8 +29,6 @@ This meetup is inspired by the [Decentralized Web Summit](http://www.decentraliz
 * [Francis Brunelle](https://frabrunelle.com/) will talk about [Matrix](http://matrix.org/) & [Vector](https://vector.im/).
 * [Vincent Olivier](https://github.com/up4) will talk about [ZeroNet](https://zeronet.io/). His presentation will be in French.
 
-<!-- The presentations are in French, questions can be asked in both languages. -->
-
 ### Schedule
 
 * 18:00 Doors open
