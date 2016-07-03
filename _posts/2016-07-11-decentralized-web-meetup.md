@@ -17,14 +17,6 @@ This meetup is inspired by the [Decentralized Web Summit](http://www.decentraliz
 
 [Many projects](http://www.decentralizedweb.net/learn-more/#science-fair) are working on making the Decentralized Web a reality. Let's discuss some of them!
 
-### Presentations
-
-[Francis Brunelle](https://frabrunelle.com/) will talk about [Matrix](http://matrix.org/) & [Vector](https://vector.im/).
-
-[Vincent Olivier](https://github.com/up4) will talk about [ZeroNet](https://zeronet.io/).
-
-(There will likely be other presentations.)
-
 ### Demos
 
 * [LBRY](https://lbry.io/)
@@ -32,10 +24,17 @@ This meetup is inspired by the [Decentralized Web Summit](http://www.decentraliz
 * [Ring](https://ring.cx/)
 * [Brave](https://www.brave.com/)
 
+### Presentations
+
+* [Francis Brunelle](https://frabrunelle.com/) will talk about [Matrix](http://matrix.org/) & [Vector](https://vector.im/).
+* [Vincent Olivier](https://github.com/up4) will talk about [ZeroNet](https://zeronet.io/).
+
+The presentations are in French, questions can be asked in both languages.
+
 ### Schedule
 
 * 18:00 Doors open
 * 18:30 Welcoming remarks
-* 18:40 Presentations and questions
-* 19:50 Demos
+* 18:40 Demos
+* 19:20 Presentations and questions
 * 20:30 Discussions in small groups  
