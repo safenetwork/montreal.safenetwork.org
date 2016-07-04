@@ -28,6 +28,7 @@ This meetup is inspired by the [Decentralized Web Summit](https://www.decentrali
 
 ### Presentations
 
+* [Vincent Cloutier](http://vincent.cloutier.co/) will talk about [The DAO](https://daohub.org/). His presentation will be in French.
 * [Francis Brunelle](https://frabrunelle.com/) will talk about [Matrix](http://matrix.org/) & [Vector](https://vector.im/).
 * [Vincent Olivier](https://github.com/up4) will talk about [ZeroNet](https://zeronet.io/). His presentation will be in French.
 
@@ -36,5 +37,5 @@ This meetup is inspired by the [Decentralized Web Summit](https://www.decentrali
 * 18:00 Doors open
 * 18:30 Welcoming remarks
 * 18:40 Demos
-* 19:20 Presentations and questions
+* 19:10 Presentations and questions
 * 20:30 Discussions in small groups  
