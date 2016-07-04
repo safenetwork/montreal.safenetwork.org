@@ -17,7 +17,7 @@ Sunday, August 31, 2014 from 6:30 PM to 9:30 PM
 
 > What bitcoin is doing for decentralizing money, safecoin will do for decentralizing all Internet services, including enterprise data centers.
 >
-> -- <cite>David Irvine, founder of [MaidSafe](http://maidsafe.net/)</cite>
+> -- *David Irvine, founder of [MaidSafe](http://maidsafe.net/)*
 
 ### Slides
 
