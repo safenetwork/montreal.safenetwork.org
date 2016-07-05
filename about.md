@@ -3,6 +3,6 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead">This is a meetup group for <a href="https://safenetwork.org/">SAFE Network</a> enthusiasts.</p>
+**This is a meetup group for [SAFE Network](https://safenetwork.org/) enthusiasts.**
 
-It was started by <a href="https://frabrunelle.com/">Francis Brunelle</a> in July 2014.
+It was started by [Francis Brunelle](https://frabrunelle.com/) in July 2014.
