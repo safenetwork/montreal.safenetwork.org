@@ -1,5 +1,5 @@
 ---
-title: SAFE Network API Meetup
+title: An Introduction to the SAFE API
 description: Let's learn how to build apps for the SAFE Network!
 ---
 
