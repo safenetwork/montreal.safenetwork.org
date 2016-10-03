@@ -36,8 +36,8 @@ Both presentations will be in French.
 
 ### Schedule
 
-* 18:30 Doors open
-* 19:00 First presentation
-* 19:45 Break
-* 20:00 Second presentation
-* 20:45 Discussion in small groups
+**18:30** Doors open <br>
+**19:00** First presentation <br>
+**19:45** Break <br>
+**20:00** Second presentation <br>
+**20:45** Discussion in small groups
