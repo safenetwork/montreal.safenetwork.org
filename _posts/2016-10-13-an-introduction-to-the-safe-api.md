@@ -30,7 +30,7 @@ Here are some examples of open source apps that have been built using the REST A
 
 [David](https://github.com/davidmtl) will first explain what SAFE Launcher is and why developers should use it. He will then present the high-level APIs (Authorization, NFS and DNS) exposed by SAFE Launcher. He will also demo 2 apps he built: SafeEditor and SafeNote.
 
-[Francis](https://github.com/frabrunelle) will first explain the new low-level APIs (Structured Data, Immutable Data, Appendable Data and Data Identifier) exposed by SAFE Launcher. He will then present the first 2 tutorials of the [SAFE Dev Tutorials](https://tutorials.safedev.org/) series. He will also talk about the new [SAFE API Docs](https://api.safedev.org/) website.
+[Francis](https://github.com/frabrunelle) will talk about the new low-level APIs (Structured Data, Immutable Data, Appendable Data and Data Identifier) exposed by SAFE Launcher. He will then present the first 2 tutorials of the [SAFE Dev Tutorials](https://tutorials.safedev.org/) series. He will also talk about the new [SAFE API Docs](https://api.safedev.org/) website.
 
 Both presentations will be in French.
 
