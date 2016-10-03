@@ -18,7 +18,7 @@ Let's learn **how to build apps for the SAFE Network**!
 
 The [SAFE Network](https://safenetwork.org/) is a decentralized data storage and communications network that provides a secure, efficient and no-cost infrastructure for app developers.
 
-Here are some examples of open source apps that have been built using the REST APIs exposed by [SAFE Launcher](https://maidsafe.readme.io/docs/launcher):
+Here are some examples of open source apps that have been built using the REST API exposed by [SAFE Launcher](https://maidsafe.readme.io/docs/launcher):
 
 * [SAFE Demo App](https://apps.safenetwork.org/safe-demo-app/)
 * [SAFE Beaker Browser](https://apps.safenetwork.org/safe-beaker-browser/)
