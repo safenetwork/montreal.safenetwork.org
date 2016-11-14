@@ -21,7 +21,7 @@ The [SAFE Network](https://safenetwork.org/) is a decentralized data storage and
 Here are some examples of open source apps that have been built using the REST API exposed by [SAFE Launcher](https://maidsafe.readme.io/docs/launcher):
 
 * [SAFE Demo App](https://apps.safenetwork.org/safe-demo-app/)
-* [SAFE Beaker Browser](https://apps.safenetwork.org/safe-beaker-browser/)
+* [SAFE Browser](https://apps.safenetwork.org/safe-browser/)
 * [SAFE Mail Tutorial](https://apps.safenetwork.org/safe-mail-tutorial/)
 * [SafeEditor](https://apps.safenetwork.org/safeeditor/)
 * [SafeNote](https://apps.safenetwork.org/safenote/)
