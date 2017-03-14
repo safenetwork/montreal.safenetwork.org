@@ -8,11 +8,11 @@ redirect_from: /2015/01/30/lecture-2-by-erick-lavoie/
 Tuesday, December 16, 2014 from 6:00 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
+[Bitcoin Embassy](https://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 
-There were a few technical issues during Lecture 2 and so Erick and Francis decided to meet again to record it as a screencast.
+There were a few technical issues during Lecture 2 and so Erick and Francis decided to meet again to record the audio.
 
 ### Videos
 

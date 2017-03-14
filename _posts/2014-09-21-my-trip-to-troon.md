@@ -1,7 +1,7 @@
 ---
 title: My Trip to Troon
 description: Francis Brunelle went to Scotland to meet the MaidSafe team.
-image: https://ipfs.pics/ipfs/QmYkcC1s6DJcGwtMGMU3qQafQXAQJj6nsoFNaEAqpUFVCS
+image: /img/group-photo-3.jpg
 redirect_from: /2014/09/23/my-trip-to-troon/
 ---
 
@@ -9,7 +9,7 @@ redirect_from: /2014/09/23/my-trip-to-troon/
 Sunday, September 21, 2014 from 6:30 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
+[Bitcoin Embassy](https://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 
@@ -19,8 +19,8 @@ Francis Brunelle went to Scotland to meet the MaidSafe team and decided to do a 
 
 * [My Trip to Troon](https://docs.google.com/presentation/d/15kOKGqtQhLSzvcLYOJtBRufxmQTUJMXsWfFwLQgfj0Y/pub?start=false&loop=false&delayms=3000)
 
-![Francis in front of the MaidSafe office](https://ipfs.pics/ipfs/QmSQ2yfW8eLixWac1meoaMiyL1HbBs5raDoiHcZcQRdThU)
+![Francis in front of the MaidSafe office](/img/francis-in-front-of-the-maidsafe-office.jpg)
 
-![David, Francis and Nick](https://ipfs.pics/ipfs/Qmcc2WQKmATgQoUDSRfFxwsjjr1EuvdNjE5ujNACNgMQ2W)
+![David, Francis and Nick](/img/david-francis-and-nick.jpg)
 
-![Group photo](https://ipfs.pics/ipfs/QmYkcC1s6DJcGwtMGMU3qQafQXAQJj6nsoFNaEAqpUFVCS)
+![Group photo](/img/group-photo-3.jpg)

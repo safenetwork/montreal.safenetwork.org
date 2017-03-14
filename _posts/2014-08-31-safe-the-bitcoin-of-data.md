@@ -1,7 +1,7 @@
 ---
 title: "SAFE: The Bitcoin of Data"
 description: Francis Brunelle's first attempt at presenting the SAFE Network.
-image: https://ipfs.pics/ipfs/QmTzab4rZf7Ur6tFybsV6t1pv2efGVEmaNF1KbhYaobUKT
+image: /img/group-photo-2.jpg
 redirect_from: /2014/09/01/safe-the-bitcoin-of-data/
 ---
 
@@ -9,7 +9,7 @@ redirect_from: /2014/09/01/safe-the-bitcoin-of-data/
 Sunday, August 31, 2014 from 6:30 PM to 9:30 PM
 
 ### Where?
-[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
+[Bitcoin Embassy](https://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 
@@ -17,12 +17,12 @@ Sunday, August 31, 2014 from 6:30 PM to 9:30 PM
 
 > What bitcoin is doing for decentralizing money, safecoin will do for decentralizing all Internet services, including enterprise data centers.
 >
-> -- *David Irvine, founder of [MaidSafe](http://maidsafe.net/)*
+> -- *David Irvine, founder of [MaidSafe](https://maidsafe.net/)*
 
 ### Slides
 
 * [SAFE: The Bitcoin of Data](https://docs.google.com/presentation/d/1SUera4Vl4qjy5miqQgbu4VRr_5uaXq4gcYt2K6UluiU/pub?start=false&loop=false&delayms=3000)
 
-![Presentation](https://ipfs.pics/ipfs/QmbH8ZQch3hrwvVKBbyWpYQyN1eBTe5WN3dStNHAdcizV6)
+![Presentation on SAFE](/img/presentation-on-safe.jpg)
 
-![Group photo](https://ipfs.pics/ipfs/QmTzab4rZf7Ur6tFybsV6t1pv2efGVEmaNF1KbhYaobUKT)
+![Group photo](/img/group-photo-2.jpg)

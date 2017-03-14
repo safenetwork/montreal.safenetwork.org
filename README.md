@@ -6,19 +6,21 @@
 
 By contributing to this website, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-### How to send a pull request
+### Submitting a pull request
 
-- Fork this repository on GitHub and clone your fork locally on your computer.
-- Install [Jekyll](https://jekyllrb.com/) and other [dependencies](https://pages.github.com/versions/) with the command `bundle install`*
-- Test out your changes with the command `bundle exec jekyll serve`
+- [Fork this GitHub repository](https://github.com/safenetwork/montreal.safenetwork.org/fork) and clone your fork locally on your computer.
+- Install [Jekyll](https://jekyllrb.com/) and other dependencies with the command `make install`*
+- Test out your changes with the command `make serve`
 - When you're happy, push your changes up and open a pull request.
 
-\* GitHub recommends using [Bundler](https://bundler.io/) to install and run Jekyll. [Click here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements) for more info.
+\* You should ensure you have [Bundler](https://bundler.io/) installed.
+
+If you're not sure how to open a pull request, feel free to <a href="https://github.com/safenetwork/montreal.safenetwork.org/issues/new">open an issue</a> instead.
 
 ## Credits
 
-The layout was inspired by [kiko.gfjaru.com](https://kiko.gfjaru.com/).
+The layout was inspired by [Kiko](https://github.com/gfjaru/Kiko).
 
 ## Public domain
 
-This website is [dedicated to the public domain](https://github.com/safenetwork-montreal/montreal.safenetwork.org/blob/gh-pages/LICENSE.md) under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+This website is [dedicated to the public domain](https://github.com/safenetwork/montreal.safenetwork.org/blob/master/LICENSE.md) under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).

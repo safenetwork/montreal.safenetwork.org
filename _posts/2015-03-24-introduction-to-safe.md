@@ -1,7 +1,7 @@
 ---
 title: Introduction to SAFE
 description: Google Hangout with David Irvine and SAFE Network London.
-image: https://ipfs.pics/ipfs/QmQ425fRekm76forQZQ6waXghC6tL2hMQPwFkJabxq6ywA
+image: /img/steven-francis-and-yanick.jpg
 redirect_from: /2015/08/03/introduction-to-safe/
 ---
 
@@ -9,7 +9,7 @@ redirect_from: /2015/08/03/introduction-to-safe/
 Tuesday, March 24, 2015 from 2:00 PM to 4:30 PM
 
 ### Where?
-[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 3rd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
+[Bitcoin Embassy](https://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 3rd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 
@@ -22,4 +22,4 @@ Francis extracted some of the best parts of the [Google Hangout](https://www.you
 * [What makes the SAFE Network different from other networks?](https://www.youtube.com/watch?v=05WuuFDZNtc)
 * [What are the main components of the SAFE Network?](https://www.youtube.com/watch?v=Ty82fp8YeoQ)
 
-![Group photo](https://ipfs.pics/ipfs/QmQ425fRekm76forQZQ6waXghC6tL2hMQPwFkJabxq6ywA)
+![Steven, Francis and Yanick](/img/steven-francis-and-yanick.jpg)

@@ -1,7 +1,7 @@
 ---
 title: The Economics of Safecoin
 description: Presentations by Joel Finningley and Daniel Dabek.
-image: https://ipfs.pics/ipfs/QmPDHK6f2xGEyFwCAtevwnXUuT9uHJUoUagT4H7RTCsJGa
+image: /img/joel-and-daniel.jpg
 redirect_from: /2015/03/10/the-economics-of-safecoin/
 ---
 
@@ -9,7 +9,7 @@ redirect_from: /2015/03/10/the-economics-of-safecoin/
 Monday, March 2, 2015 from 7:00 PM to 9:00 PM
 
 ### Where?
-[Bitcoin Embassy](http://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
+[Bitcoin Embassy](https://bitcoinembassy.ca/about-us/), 3485 Boul St-Laurent, 2nd floor ([map](https://goo.gl/maps/BfhfcmsDp8G2))
 
 ---
 
@@ -22,8 +22,6 @@ Monday, March 2, 2015 from 7:00 PM to 9:00 PM
 * [The Economics of Safecoin](https://www.youtube.com/watch?v=YAi2ia94SNQ)
 * [SAFEX, Safecoin & SAFE Network](https://www.youtube.com/watch?v=VnRVr4D33HY)
 
-![Joel and Daniel](https://ipfs.pics/ipfs/QmPDHK6f2xGEyFwCAtevwnXUuT9uHJUoUagT4H7RTCsJGa)
+![Joel and Daniel](/img/joel-and-daniel.jpg)
 
-![Daniel answering a question](https://ipfs.pics/ipfs/QmceibBkYksqqZ8hSEwy9QuV7qHsGPutT41CbBuhn6RNNR)
-
-![Daniel Dabek](https://ipfs.pics/ipfs/QmXDuR9iGqTjfSJhwqsCkaocScu9zVSaDSCxLkmSnczkLv)
+![Daniel answering a question](/img/daniel-answering-a-question.jpg)
